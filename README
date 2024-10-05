@@ -1,1 +1,4 @@
+The machine learning model - neuralnetwork.py
+database - student-mat.csv
 
+Please place the database in the same relative position w.r.t the code as in the repository when you are testing in your machine
