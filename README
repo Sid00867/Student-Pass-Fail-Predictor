@@ -1,4 +1,5 @@
 The machine learning model - neuralnetwork.py
 database - student-mat.csv
+jupyter notebook - student_pass_fail_prediction_model (1).ipynb
 
 Please place the database in the same relative position w.r.t the code as in the repository when you are testing in your machine
