@@ -2,4 +2,6 @@ The machine learning model - neuralnetwork.py
 database - student-mat.csv
 jupyter notebook - student_pass_fail_prediction_model (1).ipynb
 
+Please note that the neuralnetwork.py is a Tkinter-GUI based implementation of the model. for the model alone - look into the Jupyter notebook. The jupyter notebook also explains the features of the database and other important info
+
 Please place the database in the same relative position w.r.t the code as in the repository when you are testing in your machine
